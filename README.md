@@ -7,4 +7,5 @@ Predicting response of beam systems subjected to random vibrations. Simulation c
 
 
 2.Comparison of Numerical and Analytical Technique
+![alt text](image-2.png)
 ![alt text](image.png)
