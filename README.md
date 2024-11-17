@@ -1,5 +1,5 @@
 # BTP
-Predicting response of beam systems subjected to random vibrations. Simulation code and comparison with Ito-Taylor 1.5 numerical technique.
+Predicting response of beam systems subjected to random vibrations and developing vibration control algorithm. Simulation code and comparison with Ito-Taylor 1.5 numerical technique.
 
 
 1.Response of system.
